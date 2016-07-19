@@ -1,2 +1,2 @@
-FROM nginx:1.10 
-MAINTAINER kolyjjj@foxmail.com
+FROM nginx:1.11.0
+
